@@ -1,0 +1,21 @@
+{
+  "name": "Building a real AI agent without frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts",
+    "baseline": "node baseline.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0",
+  "dependencies": {
+    "@google/genai": "1.30.0",
+    "@types/node": "^24.10.1",
+    "dotenv": "^17.2.3",
+    "inquirer": "^13.0.2"
+  }
+}
