@@ -43,4 +43,4 @@ The project is designed to illustrate the core mechanics of an AI agent, focusin
 
 A detailed, step-by-step explanation of this implementation is available in the accompanying blog post:
 
-[Building a Real AI Agent Without Frameworks](https://dennisstanoev.com/building-a-real-ai-agent-without-frameworks/)
+[Building an AI agent from scratch](https://dennisstanoev.com/building-an-ai-agent-from-scratch-without-frameworks/)
