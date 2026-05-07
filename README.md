@@ -4,6 +4,10 @@ This repository contains the source code for a functional AI support agent built
 
 The project is designed to illustrate the core mechanics of an AI agent, focusing on implementing the **Agent Loop**, **Memory (Conversation History)**, and **Function Calling (Tools)** using only the native Google Gen AI SDK.
 
+A detailed, step-by-step explanation of this implementation is available in the accompanying blog post:
+
+[Building an AI agent from scratch](https://dennisstanoev.com/building-an-ai-agent-from-scratch-without-frameworks/)
+
 ## Key Features
 
 - **Core Agent Loop:** Handles conversation flow and decision-making.
@@ -38,9 +42,3 @@ The project is designed to illustrate the core mechanics of an AI agent, focusin
     ```bash
     pnpm start
     ```
-
-## 💡 Learn More
-
-A detailed, step-by-step explanation of this implementation is available in the accompanying blog post:
-
-[Building an AI agent from scratch](https://dennisstanoev.com/building-an-ai-agent-from-scratch-without-frameworks/)
